@@ -22,4 +22,4 @@ The analysis uses the Iris dataset, a classic dataset for classification problem
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/data-analysis-pandas-matplotlib.git
+   git clone https://github.com/Mike-git02/data-analysis-pandas-matplotlib.git
